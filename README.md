@@ -15,7 +15,7 @@ This project monitors facial landmarks and eye closure patterns to detect signs 
 - Python
 - OpenCV
 - Mediapipe
-- NumPy
+- SciPy
 
 ## ✨ How it works
 1. Capture live video feed using OpenCV.
