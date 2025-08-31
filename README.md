@@ -25,8 +25,8 @@ This project monitors facial landmarks and eye closure patterns to detect signs 
 
 ## 🧑‍💻 Installation
 ```
-git clone https://github.com/your-username/sleep-detection-opencv-mediapipe.git
-cd sleep-detection-opencv-mediapipe
+git clone https://github.com/rahul2002m/Sleep-and-Drowsiness-Detection-using-OpenCV-and-Mediapipe.git
+cd Sleep-and-Drowsiness-Detection-using-OpenCV-and-Mediapipe
 pip install -r requirements.txt
 ```
 
